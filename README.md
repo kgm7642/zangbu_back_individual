@@ -20,6 +20,8 @@ AI 분석, 실거주자 리뷰, 실시간 채팅·알림 기능을 제공하는 
 `Spring MVC (레거시)` + `MyBatis` + `MySQL` 기반으로 구축되었습니다.
 필요에 따라 `Redis`, `Firebase FCM`, `Swagger`, `WebSocket(STOMP)` 등을 확장 지원합니다.
 
+> 🔗 프론트 저장소: [zangbu_back_individual](https://github.com/kgm7642/zangbu_front_individual)
+
 ---
 
 ## ⚙️ Tech Stack
